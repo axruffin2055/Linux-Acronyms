@@ -57,8 +57,8 @@
 | RAM     | Random Access Memory                                           |
 | MBR     | Master Boot Record                                             |
 | GPT     | GUID Partition Table                                           |
-  GUID      Globally Unique Identifier
-  EFI       Extensible Firmware Interface
+| GUID    | Globally Unique Identifier                                     |
+| EFI     | Extensible Firmware Interface                                  |
 | ESP     | EFI System Partition                                           |
 | GRUB    | GRand Unified Bootloader                                       |
 | GUI     | Graphical User Interface                                       |
