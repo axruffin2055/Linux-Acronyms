@@ -14,3 +14,6 @@ This Linux-Acronyms table can be use:
 - And for when trying to tranfer into another job such as DevOps, sysadmin, or networking role. Thus giving you the need for a high-level understanding of terms across domains.
 
 Enjoy: [Linux-Acronyms](https://github.com/axruffin2055/Linux-Acronyms/blob/main/Linux-Acronyms)
+
+Also, if you want most Linux and powershell commands at your figure tips, then click the link:
+[Right here: Linux & Powershell Command](https://github.com/axruffin2055/Linux-And-PowerShell-Commands)
