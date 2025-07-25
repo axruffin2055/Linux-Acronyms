@@ -13,4 +13,4 @@ This Linux-Acronyms table can be use:
 - When writing scripts, documentation, or reports that reference low-level system components or protocols.
 - And for when trying to tranfer into another job such as DevOps, sysadmin, or networking role. Thus giving you the need for a high-level understanding of terms across domains.
 
-Enjoy: https://github.com/axruffin2055/Linux-Acronyms/blob/main/Linux-Acronyms
+Enjoy: [Linux-Acronyms](https://github.com/axruffin2055/Linux-Acronyms/blob/main/Linux-Acronyms)
